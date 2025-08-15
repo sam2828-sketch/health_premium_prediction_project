@@ -12,3 +12,4 @@ Model: Regression algorithms (e.g., Linear Regression, Random Forest, or Gradien
 Data Handling: Includes preprocessing steps like encoding categorical variables, scaling, and handling missing values.
 
 Evaluation Metrics: Model performance measured using RMSE, MAE, and R² score.
+
