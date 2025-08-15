@@ -1,7 +1,7 @@
 # health_premium_prediction_project
 Health Care Premium Prediction
 
-This project is a machine learning regression model that predicts health insurance premiums based on individual features such as age, gender, BMI, smoking status, and more. The goal is to provide an estimate of the expected insurance cost for an individual using real-world data.
+This project implements a machine learning regression model to predict health insurance premiums based on individual features such as age, gender, BMI, smoking status, and more. The objective is to estimate the expected insurance cost for an individual using a sample/synthetic dataset.
 
 Features
 
