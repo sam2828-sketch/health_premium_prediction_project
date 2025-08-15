@@ -7,7 +7,7 @@ Features
 
 Input Variables: Age, Gender, BMI, Smoking Status, Marital Status, and other relevant health and demographic features.
 
-Model: Regression algorithms (e.g., Linear Regression, Random Forest, or Gradient Boosting) to predict insurance premiums.
+Model: Regression algorithms (e.g., Linear Regression, XGBoost) to predict insurance premiums.
 
 Data Handling: Includes preprocessing steps like encoding categorical variables, scaling, and handling missing values.
 
